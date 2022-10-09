@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottpopplewell
 - 👀 I’m interested in delivering excellent software quickly, gardening and cooking
 - 🌱 I’m currently learning to work on my frontend development with Lit and managing teams
-- 📫 You can reach me at friends@scottpopplewell.me or [@TtocsLLewelppop](https://twitter.com/TtocsLLewelppop)
+- 📫 You can reach me at friends@scottpopplewell.me or [@TtocsLLewelppop](https://twitter.com/sdpopplewell)
 - 📝 I blog...not a lot...at [scottpopplewell.me](https://scottpopplewell.me/)
 - and I have a cookbook at [cookbook.scottpopplewell.me](https://cookbook.scottpopplewell.me/)!
